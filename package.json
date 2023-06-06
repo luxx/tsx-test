@@ -1,0 +1,7 @@
+{
+  "name": "tsx-test",
+  "packageManager": "yarn@3.6.0",
+  "devDependencies": {
+    "tsx": "^3.12.7"
+  }
+}
